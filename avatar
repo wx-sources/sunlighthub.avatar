@@ -1,25 +1,24 @@
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
-   Name = "Alya Hub (Brookhaven Rp🏡)",
+   Name = "LanyHub (Brookhaven Rp🏡)",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
-   LoadingTitle = "Alya Hub",
-   LoadingSubtitle = "by Cici/ArceusX_Roblox123",
+   LoadingTitle = "LanyHub",
+   LoadingSubtitle = "by Nx",
    Theme = "DarkBlue", -- Check https://docs.sirius.menu/rayfield/configuration/themes
 
    DisableRayfieldPrompts = false,
    DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
-
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "AlyaHubPro"
+      FileName = "LanyHubPro"
    },
 })
 
 Rayfield:Notify({
-   Title = "Alya Hub",
-   Content = "Thank You For Using Alya Hub (Brookhaven RP",
+   Title = "Lany Hub",
+   Content = "Thank You For Using Lany Hub (Brookhaven RP",
    Duration = 10,
    Image = 131090741681210,
 })
