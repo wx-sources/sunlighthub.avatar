@@ -200,7 +200,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab2:CreateButton({
-   Name = "Hot square girl/Giant Fashion Doll",
+   Name = "(vai fazer vc ser kickado n use!)Hot square girl/Giant Fashion Doll",
    Callback = function()
 local args = {
     [1] = {
