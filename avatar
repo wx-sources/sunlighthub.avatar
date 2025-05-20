@@ -25,7 +25,7 @@ Rayfield:Notify({
 
 ---TabsHome---
 local TabHome = Window:CreateTab("Home🏠", 131090741681210) -- Title, Image
-local Label = TabHome:CreateLabel("Welcome To The Alya Hub Scripter", 73798727737509, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
+local Label = TabHome:CreateLabel("Welcome To The LanyHub", 73798727737509, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Label = TabHome:CreateLabel("Status Script (🟡) (Working (Issue)", 119337150944005, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreThemeassas
 local Paragraph = TabHome:CreateParagraph({Title = "Credits", Content = "Tiktok - @arceusx_roblox123"})
 local Paragraph = TabHome:CreateParagraph({Title = "Update Logs", Content = "Fix Heads/GirlBundle/BoyBundle/Custom Not Working!!!"})
