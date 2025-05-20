@@ -500,15 +500,15 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab4:CreateButton({
-   Name = "Blocky Girl (Right Leg)",
+   Name = "Lazuu Clothes",
    Callback = function()
 local args = {
     [1] = {
-        [1] = 0,
-        [2] = 0,
+        [1] = 15921703114,
+        [2] = 16619797968,
         [3] = 0,
-        [4] = 14755622570,
-        [5] = 14755622524,
+        [4] = 0,
+        [5] = 0,
         [6] = 0
     }
 }
