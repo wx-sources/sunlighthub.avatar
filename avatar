@@ -200,15 +200,15 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab2:CreateButton({
-   Name = "(vai fazer vc ser kickado n use!)Hot square girl/Giant Fashion Doll",
+   Name = "Lazuu Type Body",
    Callback = function()
 local args = {
     [1] = {
-        [1] = 117882837859178,
-        [2] = 98357247120575,
-        [3] = 113606494402734,
-        [4] = 86456162237828,
-        [5] = 103548894824199,
+        [1] = 75159926897589,
+        [2] = 76683091425509,
+        [3] = 14567282030,
+        [4] = 14567281990,
+        [5] = 14874108946,
         [6] = 0
     }
 }
@@ -218,7 +218,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 })
 local Label = Tab2:CreateLabel("Mini Woman (Girl(Body)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab2:CreateButton({
-   Name = "Hot girl body/Makeup Girl(Black)",
+   Name = "Makeup Girl(Black)",
    Callback = function()
 local args = {
     [1] = {
@@ -487,12 +487,12 @@ local Button = Tab4:CreateButton({
    Callback = function()
 local args = {
     [1] = {
-        [1] = 0, -- Torso
-        [2] = 0, -- LeftArm
-        [3] = 0, -- RightArm
-        [4] = 0, -- LeftLeg
-        [5] = 0, -- RightLeg
-        [6] = 0 -- Head
+        [1] = 0,
+        [2] = 0,
+        [3] = 0,
+        [4] = 37754710,
+        [5] = 139572789,
+        [6] = 0
     }
 }
 
