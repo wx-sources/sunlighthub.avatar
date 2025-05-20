@@ -235,15 +235,15 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab2:CreateButton({
-   Name = "Mini Woman (White)",
+   Name = "Lazuu Chibi Girl Bubbly",
    Callback = function()
 local args = {
     [1] = {
-        [1] = 14854042248,
-        [2] = 14854025574,
-        [3] = 14854025318,
-        [4] = 14854025333,
-        [5] = 14854025739,
+        [1] = 17759625390,
+        [2] = 17759625333,
+        [3] = 17759625415,
+        [4] = 17759626537,
+        [5] = 17759626879,
         [6] = 0
     }
 }
