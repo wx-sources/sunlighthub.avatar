@@ -411,15 +411,15 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 })
 local Label = Tab3:CreateLabel("Mini Man (Boy(Body)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab3:CreateButton({
-   Name = "Mini Man (Black)",
+   Name = "Chad King",
    Callback = function()
 local args = {
     [1] = {
         [1] = 121532625082697,
         [2] = 119216187383922,
         [3] = 121634444400488,
-        [4] = 0,
-        [5] = 0,
+        [4] = 79657233419127,
+        [5] = 119087597997935,
         [6] = 0
     }
 }
