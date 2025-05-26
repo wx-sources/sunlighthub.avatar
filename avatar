@@ -376,7 +376,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 })
 local Label = Tab3:CreateLabel("Inf15 thin (Boy(Body)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab3:CreateButton({
-   Name = "Inf15 thin (Black)",
+   Name = "2009's R6",
    Callback = function()
 local args = {
     [1] = {
