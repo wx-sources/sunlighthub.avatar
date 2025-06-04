@@ -218,15 +218,15 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 })
 local Label = Tab2:CreateLabel("Mini Woman (Girl(Body)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab2:CreateButton({
-   Name = "Makeup Girl(Black)",
+   Name = "Plushy Chibi Woman (HOT)",
    Callback = function()
 local args = {
     [1] = {
-        [1] = 97144857489246,
-        [2] = 84609939233156,
-        [3] = 107410727549645,
-        [4] = 73561561165254,
-        [5] = 116150786446066,
+        [1] = 84519338962111,
+        [2] = 104625992479605,
+        [3] = 89231963593670,
+        [4] = 101500262169377,
+        [5] = 130044271500910,
         [6] = 0,
     }
 }
