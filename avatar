@@ -428,7 +428,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab3:CreateButton({
-   Name = "Mini Man (White)",
+   Name = "SpongeBob",
    Callback = function()
 local args = {
     [1] = {
