@@ -183,7 +183,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 ---tabs 2---
 local Label = Tab2:CreateLabel("Blush Fashion Doll (Girl(Arm/Torso)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab2:CreateButton({
-   Name = "SuperLazuu Tall Body",
+   Name = "Woman 1",
    Callback = function()
 local args = {
     [1] = {
@@ -200,7 +200,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab2:CreateButton({
-   Name = "Lazuu Type Body",
+   Name = "Woman 2",
    Callback = function()
 local args = {
     [1] = {
@@ -218,7 +218,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 })
 local Label = Tab2:CreateLabel("Mini Woman (Girl(Body)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab2:CreateButton({
-   Name = "Plushy Chibi Woman (HOT)",
+   Name = "Plushy Chibi Woman",
    Callback = function()
 local args = {
     [1] = {
@@ -235,7 +235,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab2:CreateButton({
-   Name = "Lazuu Chibi Girl Bubbly",
+   Name = "Chibi Girl Bubbly",
    Callback = function()
 local args = {
     [1] = {
@@ -252,7 +252,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab2:CreateButton({
-   Name = "Lazuu Manga Doll",
+   Name = "Manga Doll",
    Callback = function()
 local args = {
     [1] = {
@@ -411,7 +411,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
 })
 local Label = Tab3:CreateLabel("Mini Man (Boy(Body)", 80756285712103, Color3.fromRGB(255, 255, 255), false) -- Title, Icon, Color, IgnoreTheme
 local Button = Tab3:CreateButton({
-   Name = "Chad King",
+   Name = "Strong 1",
    Callback = function()
 local args = {
     [1] = {
@@ -500,7 +500,7 @@ game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("Chang
    end,
 })
 local Button = Tab4:CreateButton({
-   Name = "Lazuu Clothes",
+   Name = "NOT WORKING - Clothes",
    Callback = function()
 local args = {
     [1] = {
